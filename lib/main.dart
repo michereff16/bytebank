@@ -21,5 +21,3 @@ class ByteBankApp extends StatelessWidget {
     );
   }
 }
-
-
